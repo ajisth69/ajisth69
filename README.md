@@ -45,7 +45,7 @@ I operate at the intersection of raw performance and premium design. I don't jus
 > An advanced, highly optimized Python Telegram bot architecture designed for scale and zero-latency interactions.
 
 > 🗄️ **ClashDB**<br/>
-> An efficient, highly scalable data management and storage system acting as the backbone for high-demand applications.
+> An efficient, highly scalable data management and storage system acting as the backbone for high-demand applications..
 
 ---
 
