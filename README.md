@@ -21,6 +21,10 @@
 
 <br/><br/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=ajisth69&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6" width="90%" />
+
+<br/><br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ajisth69&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=00000000&hide_title=true&rank_icon=percentile" />
   <img src="https://github-readme-stats.vercel.app/api?username=ajisth69&show_icons=true&hide_border=true&hide_title=true&rank_icon=percentile" height="150" />
