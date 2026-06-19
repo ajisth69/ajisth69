@@ -21,6 +21,51 @@
 
 <br/><br/>
 
+<h3>🏆 GitHub Achievements</h3>
+<br/>
+
+<table align="center">
+  <tr align="center" valign="middle">
+    <td>
+      <a href="https://github.com/ajisth69?tab=achievements">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pair-extraordinaire-silver.png" width="60px" alt="Pair Extraordinaire Silver" />
+      </a>
+      <br />
+      <sub><b>Pair Extraordinaire (x3)</b></sub>
+    </td>
+    <td>
+      <a href="https://github.com/ajisth69?tab=achievements">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pull-shark-bronze.png" width="60px" alt="Pull Shark Bronze" />
+      </a>
+      <br />
+      <sub><b>Pull Shark (x2)</b></sub>
+    </td>
+    <td>
+      <a href="https://github.com/ajisth69?tab=achievements">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="60px" alt="YOLO" />
+      </a>
+      <br />
+      <sub><b>YOLO</b></sub>
+    </td>
+    <td>
+      <a href="https://github.com/ajisth69?tab=achievements">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="60px" alt="Quickdraw" />
+      </a>
+      <br />
+      <sub><b>Quickdraw</b></sub>
+    </td>
+    <td>
+      <a href="https://github.com/ajisth69?tab=achievements">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="60px" alt="Starstruck" />
+      </a>
+      <br />
+      <sub><b>Starstruck</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/><br/>
+
 <img src="https://github-profile-trophy.vercel.app/?username=ajisth69&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6" width="90%" />
 
 <br/><br/>
