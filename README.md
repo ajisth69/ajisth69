@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:21262d,100:0d1117&height=220&section=header&text=Ajisth%20Singh&fontColor=58a6ff&fontSize=48&fontAlignY=35&desc=telegram%20clients%20%E2%80%A2%20serverless%20apis%20%E2%80%A2%20web%20streaming&descAlignY=56&descSize=14&descColor=8b949e&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:21262d,100:0d1117&height=220&section=header&text=Ajisth%20Singh&fontColor=58a6ff&fontSize=48&fontAlignY=35&desc=Crypto%20%7C%20Web3%20%7C%20Telegram%20Ecosystem&descAlignY=51&descAlign=50">
+</img>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=200&size=14&duration=3500&pause=1500&color=8b949e&center=true&vCenter=true&repeat=true&width=550&height=22&lines=building+telegram+web+clients+and+serverless+edge+apis;music+streaming+%E2%80%A2+cloud+storage+%E2%80%A2+bot+frameworks;full-stack+developer+focused+on+performance+and+clean+UI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=200&size=14&duration=3500&pause=1500&color=8b949e&center=true&vCenter=true&repeat=true&width=550&height=22&lines=building%20web%20%2B%20telegram%20ecosystem;fullstack%20typescript%20%2B%20python;edge%20computing%20%2B%20serverless;web%20audio%20%2B%20streaming" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -66,28 +67,24 @@
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ajisth69&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6" width="90%" />
-
-<br/><br/>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ajisth69&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=00000000&hide_title=true&rank_icon=percentile" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ajisth69&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=00000000" />
   <img src="https://github-readme-stats.vercel.app/api?username=ajisth69&show_icons=true&hide_border=true&hide_title=true&rank_icon=percentile" height="150" />
 </picture>
 &nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=ajisth69&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=8b949e" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=ajisth69&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=8b949e" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ajisth69&hide_border=true" height="150" />
 </picture>
 &nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ajisth69&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=00000000" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ajisth69&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=00000000" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajisth69&layout=compact&hide_border=true" height="150" />
 </picture>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajisth69&theme=react-dark&hide_border=true&bg_color=00000000&color=8b949e&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajisth69&theme=react-dark&hide_border=true&bg_color=00000000&color=8b949e&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" width="90%" />
 
 </div>
 
