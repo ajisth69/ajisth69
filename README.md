@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:21262d,100:0d1117&height=220&section=header&text=Ajisth%20Singh&fontColor=58a6ff&fontSize=48&fontAlignY=35&desc=Crypto%20%7C%20Web3%20%7C%20Telegram%20Ecosystem&descAlignY=51&descAlign=50">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:21262d,100:0d1117&height=220&section=header&text=Ajisth%20Singh&fontColor=58a6ff&fontSize=48&fontAlignY=35&desc=Telegram%20Ecosystem%20%E2%80%A2%20Fullstack%20%E2%80%A2%20Serverless&descAlignY=51&descAlign=50">
 </img>
 
 <br/>
