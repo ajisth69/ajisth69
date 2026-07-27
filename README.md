@@ -96,18 +96,21 @@
 
 ---
 
-### <img src="https://api.iconify.design/octicon:graph-16.svg?color=%2358a6ff" width="20" height="20" valign="middle" /> Activity & Summary
+### <img src="https://api.iconify.design/octicon:graph-16.svg?color=%2358a6ff" width="20" height="20" valign="middle" /> Statistics & Metrics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajisth69&theme=github_dark" width="100%" />
-
-  <br/><br/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ajisth69&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=00000000" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ajisth69&show_icons=true&hide_border=true" height="150" />
+  </picture>
+  &nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=ajisth69&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=8b949e" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ajisth69&hide_border=true" height="150" />
   </picture>
-  &nbsp;&nbsp;
+
+  <br/><br/>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajisth69&langs_count=8&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=00000000" />
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajisth69&langs_count=8&layout=compact&hide_border=true" height="150" />
