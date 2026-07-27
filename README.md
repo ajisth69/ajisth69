@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:21262d,100:0d1117&height=220&section=header&text=Ajisth%20Singh&fontColor=58a6ff&fontSize=48&fontAlignY=35&desc=Telegram%20Ecosystem%20%E2%80%A2%20Fullstack%20%E2%80%A2%20Serverless&descAlignY=51&descAlign=50">
-</img>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:21262d,100:0d1117&height=200&section=header&text=Ajisth%20Singh&fontColor=58a6ff&fontSize=42&fontAlignY=35&desc=Telegram%20Ecosystem%20%E2%80%A2%20Fullstack%20%E2%80%A2%20Serverless&descAlignY=52&descAlign=50" width="100%" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=200&size=14&duration=3500&pause=1500&color=8b949e&center=true&vCenter=true&repeat=true&width=550&height=22&lines=building%20web%20%2B%20telegram%20ecosystem;fullstack%20typescript%20%2B%20python;edge%20computing%20%2B%20serverless;web%20audio%20%2B%20streaming" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=14&duration=3500&pause=1500&color=8b949e&center=true&vCenter=true&repeat=true&width=550&height=22&lines=building%20web%20%2B%20telegram%20ecosystem;fullstack%20typescript%20%2B%20python;edge%20computing%20%2B%20serverless;web%20audio%20%2B%20streaming" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -27,6 +26,13 @@
 
 <table align="center">
   <tr align="center" valign="middle">
+    <td>
+      <a href="https://github.com/ajisth69?tab=achievements">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="60px" alt="Galaxy Brain" />
+      </a>
+      <br />
+      <sub><b>Galaxy Brain</b></sub>
+    </td>
     <td>
       <a href="https://github.com/ajisth69?tab=achievements">
         <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pair-extraordinaire-silver.png" width="60px" alt="Pair Extraordinaire Silver" />
@@ -68,8 +74,8 @@
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ajisth69&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ajisth69&show_icons=true&hide_border=true&hide_title=true&rank_icon=percentile" height="150" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ajisth69&show_icons=true&show_rank=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=00000000" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ajisth69&show_icons=true&show_rank=true&hide_border=true" height="150" />
 </picture>
 &nbsp;
 <picture>
@@ -78,8 +84,8 @@
 </picture>
 &nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ajisth69&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajisth69&layout=compact&hide_border=true" height="150" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajisth69&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=00000000" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajisth69&layout=compact&hide_border=true" height="150" />
 </picture>
 
 <br/><br/>
@@ -90,40 +96,21 @@
 
 ---
 
-### What I Work On
+### Featured Projects
 
-**Telegram Ecosystem** — Custom web clients, bot frameworks, cloud storage integrations, and MTProto proxy tools.
-
-**Web Streaming & Audio** — Music players with Web Audio API, DSP processing, spatial reverb, and PWA delivery.
-
-**Serverless & APIs** — Edge-deployed APIs on Cloudflare Workers and Vercel, backed by Redis and KV stores.
-
----
-
-### Projects
+**[Clash Drive](https://github.com/ajisth69/tg-cloud-drive)** — Decentralized cloud storage with 50MB chunked encryption over MTProto.
+`Cloudflare Workers` `Web Crypto` `TypeScript`
 
 **[Clashgram](https://github.com/ajisth69/clashgram-client)** — Web Telegram client with MTProto proxy injection and endpoint bypass.
 `Teact` `TypeScript` `SCSS`
 
-**[TG Cloud Drive](https://github.com/ajisth69/tg-cloud-drive)** — Decentralized cloud storage with 50MB chunked encryption over MTProto.
-`Cloudflare Workers` `Web Crypto`
-
-**[Clash Music](https://github.com/ajisth69/Clash-Music)** — Hi-Fi streaming with 320kbps DSP and 7 spatial reverb presets.
-`Web Audio API` `PWA`
-
 **[Dev Analyzer](https://github.com/ajisth69/dev-analyzer)** — Repository analysis engine with deterministic metrics and reports.
-`React` `Node.js`
-
-**[PAIN Bot](https://github.com/ajisth69/telegram-bot)** — Async Python automation engine for Telegram.
-`Python` `Pyrogram`
-
-**[ClashDB](https://github.com/ajisth69/clashdb)** — Schema-less JSON storage proxy.
-`Node.js` `Upstash Redis`
+`React` `Node.js` `JavaScript`
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ajisth69&style=for-the-badge&color=0d1117&labelColor=161b22&label=VIEWS" />
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:21262d,100:0d1117&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:21262d,100:0d1117&height=100&section=footer" width="100%" />
 </div>
