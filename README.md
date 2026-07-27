@@ -100,12 +100,19 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=ajisth69&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=8b949e" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ajisth69&hide_border=true" height="150" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ajisth69&show_icons=true&show_rank=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=00000000" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ajisth69&show_icons=true&show_rank=true&hide_border=true" height="150" />
   </picture>
   &nbsp;&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajisth69&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=00000000" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajisth69&layout=compact&hide_border=true" height="150" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=ajisth69&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=8b949e" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ajisth69&hide_border=true" height="150" />
+  </picture>
+
+  <br/><br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajisth69&langs_count=8&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=00000000" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajisth69&langs_count=8&layout=compact&hide_border=true" height="150" />
   </picture>
 </div>
