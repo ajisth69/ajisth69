@@ -4,7 +4,7 @@
 
 ---
 
-### <img src="https://api.iconify.design/octicon:code-16.svg?color=%2358a6ff" width="20" height="20" valign="middle" /> Tech Stack & Tools
+### <img src="https://api.iconify.design/octicon:code-16.svg?color=%237aa2f7" width="20" height="20" valign="middle" /> Tech Stack & Tools
 
 **Languages & Core**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -32,20 +32,23 @@
 
 ---
 
-### <img src="https://api.iconify.design/octicon:repo-16.svg?color=%2358a6ff" width="20" height="20" valign="middle" /> Featured Projects
+### <img src="https://api.iconify.design/octicon:repo-16.svg?color=%237aa2f7" width="20" height="20" valign="middle" /> Featured Projects
 
-- **[Clash Drive](https://github.com/ajisth69/tg-cloud-drive)** — Decentralized cloud storage using 50MB chunked MTProto payload encryption.  
-  `Cloudflare Workers` `Web Crypto` `TypeScript`
+<div align="center">
 
-- **[Clashgram](https://github.com/ajisth69/clashgram-client)** — Web Telegram client with MTProto proxy injection and endpoint bypass.  
-  `Teact` `TypeScript` `SCSS`
+[![Clash Drive](https://kayan-github-profile-projects-featu.vercel.app/api/pin/?username=ajisth69&repo=tg-cloud-drive&theme=tokyonight&hide_border=true)](https://github.com/ajisth69/tg-cloud-drive)
+&nbsp;
+[![Clashgram](https://kayan-github-profile-projects-featu.vercel.app/api/pin/?username=ajisth69&repo=clashgram-client&theme=tokyonight&hide_border=true)](https://github.com/ajisth69/clashgram-client)
 
-- **[Dev Analyzer](https://github.com/ajisth69/dev-analyzer)** — Repository analysis engine generating deterministic code metrics and reports.  
-  `React` `TypeScript` `Node.js`
+<br/>
+
+[![Dev Analyzer](https://kayan-github-profile-projects-featu.vercel.app/api/pin/?username=ajisth69&repo=dev-analyzer&theme=tokyonight&hide_border=true)](https://github.com/ajisth69/dev-analyzer)
+
+</div>
 
 ---
 
-### <img src="https://api.iconify.design/octicon:trophy-16.svg?color=%2358a6ff" width="20" height="20" valign="middle" /> Achievements
+### <img src="https://api.iconify.design/octicon:trophy-16.svg?color=%237aa2f7" width="20" height="20" valign="middle" /> Achievements
 
 <table align="center">
   <tr align="center" valign="middle">
@@ -96,23 +99,23 @@
 
 ---
 
-### <img src="https://api.iconify.design/octicon:graph-16.svg?color=%2358a6ff" width="20" height="20" valign="middle" /> Statistics & Metrics
+### <img src="https://api.iconify.design/octicon:graph-16.svg?color=%237aa2f7" width="20" height="20" valign="middle" /> Statistics & Metrics
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ajisth69&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=00000000" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ajisth69&show_icons=true&hide_border=true" height="150" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://kayan-github-profile-projects-featu.vercel.app/api?username=ajisth69&show_icons=true&show_rank=true&theme=tokyonight&hide_border=true" />
+    <img src="https://kayan-github-profile-projects-featu.vercel.app/api?username=ajisth69&show_icons=true&show_rank=true&theme=tokyonight&hide_border=true" height="150" />
   </picture>
   &nbsp;&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=ajisth69&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=8b949e" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ajisth69&hide_border=true" height="150" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=ajisth69&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7&sideNums=a9b1d6" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ajisth69&theme=tokyonight&hide_border=true" height="150" />
   </picture>
 
   <br/><br/>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajisth69&langs_count=8&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=00000000" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajisth69&langs_count=8&layout=compact&hide_border=true" height="150" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=ajisth69&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
+    <img src="https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=ajisth69&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="150" />
   </picture>
 </div>
