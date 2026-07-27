@@ -34,17 +34,14 @@
 
 ### <img src="https://api.iconify.design/octicon:repo-16.svg?color=%237aa2f7" width="20" height="20" valign="middle" /> Featured Projects
 
-<div align="center">
+- **[Clash Drive](https://github.com/ajisth69/tg-cloud-drive)** — Decentralized cloud storage using 50MB chunked MTProto payload encryption.  
+  `Cloudflare Workers` `Web Crypto` `TypeScript`
 
-[![Clash Drive](https://kayan-github-profile-projects-featu.vercel.app/api/pin/?username=ajisth69&repo=tg-cloud-drive&theme=tokyonight&hide_border=true)](https://github.com/ajisth69/tg-cloud-drive)
-&nbsp;
-[![Clashgram](https://kayan-github-profile-projects-featu.vercel.app/api/pin/?username=ajisth69&repo=clashgram-client&theme=tokyonight&hide_border=true)](https://github.com/ajisth69/clashgram-client)
+- **[Clashgram](https://github.com/ajisth69/clashgram-client)** — Web Telegram client with MTProto proxy injection and endpoint bypass.  
+  `Teact` `TypeScript` `SCSS`
 
-<br/>
-
-[![Dev Analyzer](https://kayan-github-profile-projects-featu.vercel.app/api/pin/?username=ajisth69&repo=dev-analyzer&theme=tokyonight&hide_border=true)](https://github.com/ajisth69/dev-analyzer)
-
-</div>
+- **[Dev Analyzer](https://github.com/ajisth69/dev-analyzer)** — Repository analysis engine generating deterministic code metrics and reports.  
+  `React` `TypeScript` `Node.js`
 
 ---
 
