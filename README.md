@@ -4,7 +4,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### <img src="https://api.iconify.design/octicon:code-16.svg?color=%2358a6ff" width="20" height="20" valign="middle" /> Tech Stack & Tools
 
 **Languages & Core**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -32,7 +32,7 @@
 
 ---
 
-### ⚡ Featured Projects
+### <img src="https://api.iconify.design/octicon:repo-16.svg?color=%2358a6ff" width="20" height="20" valign="middle" /> Featured Projects
 
 - **[Clash Drive](https://github.com/ajisth69/tg-cloud-drive)** — Decentralized cloud storage using 50MB chunked MTProto payload encryption.  
   `Cloudflare Workers` `Web Crypto` `TypeScript`
@@ -45,7 +45,7 @@
 
 ---
 
-### 🏆 Achievements
+### <img src="https://api.iconify.design/octicon:trophy-16.svg?color=%2358a6ff" width="20" height="20" valign="middle" /> Achievements
 
 <table align="center">
   <tr align="center" valign="middle">
@@ -96,21 +96,18 @@
 
 ---
 
-### 📊 Activity & Statistics
+### <img src="https://api.iconify.design/octicon:graph-16.svg?color=%2358a6ff" width="20" height="20" valign="middle" /> Activity & Summary
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ajisth69&show_icons=true&show_rank=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=00000000" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ajisth69&show_icons=true&show_rank=true&hide_border=true" height="150" />
-  </picture>
-  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajisth69&theme=github_dark" width="100%" />
+
+  <br/><br/>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=ajisth69&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=8b949e" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ajisth69&hide_border=true" height="150" />
   </picture>
-
-  <br/><br/>
-
+  &nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajisth69&langs_count=8&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=00000000" />
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajisth69&langs_count=8&layout=compact&hide_border=true" height="150" />
