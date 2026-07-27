@@ -1,135 +1,111 @@
-<div align="center">
+# Ajisth Singh
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:21262d,100:0d1117&height=200&section=header&text=Ajisth%20Singh&fontColor=58a6ff&fontSize=42&fontAlignY=35&desc=Telegram%20Ecosystem%20%E2%80%A2%20Fullstack%20%E2%80%A2%20Serverless&descAlignY=52&descAlign=50" width="100%" />
-
-  <br/>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=14&duration=3500&pause=1500&color=8b949e&center=true&vCenter=true&repeat=true&width=550&height=22&lines=building%20web%20%2B%20telegram%20ecosystem;fullstack%20typescript%20%2B%20python;edge%20computing%20%2B%20serverless;web%20audio%20%2B%20streaming" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
-  <p>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
-    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=fff" />
-  </p>
-
-</div>
-
-<br/>
+> Fullstack Engineer specializing in Telegram Ecosystems, Serverless Architectures & Web Technologies.
 
 ---
 
-### 🏆 Achievements
+### 🛠️ Tech Stack & Tools
 
-<div align="center">
-  <table>
-    <tr align="center" valign="middle">
-      <td width="110">
-        <a href="https://github.com/ajisth69?tab=achievements">
-          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="55" alt="Galaxy Brain" />
-        </a>
-        <br />
-        <sub><b>Galaxy Brain</b></sub>
-      </td>
-      <td width="110">
-        <a href="https://github.com/ajisth69?tab=achievements">
-          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pair-extraordinaire-silver.png" width="55" alt="Pair Extraordinaire Silver" />
-        </a>
-        <br />
-        <sub><b>Pair Extraordinaire (x3)</b></sub>
-      </td>
-      <td width="110">
-        <a href="https://github.com/ajisth69?tab=achievements">
-          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pull-shark-bronze.png" width="55" alt="Pull Shark Bronze" />
-        </a>
-        <br />
-        <sub><b>Pull Shark (x2)</b></sub>
-      </td>
-      <td width="110">
-        <a href="https://github.com/ajisth69?tab=achievements">
-          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="55" alt="YOLO" />
-        </a>
-        <br />
-        <sub><b>YOLO</b></sub>
-      </td>
-      <td width="110">
-        <a href="https://github.com/ajisth69?tab=achievements">
-          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="55" alt="Quickdraw" />
-        </a>
-        <br />
-        <sub><b>Quickdraw</b></sub>
-      </td>
-      <td width="110">
-        <a href="https://github.com/ajisth69?tab=achievements">
-          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="55" alt="Starstruck" />
-        </a>
-        <br />
-        <sub><b>Starstruck</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
+**Languages & Core**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
-<br/>
+**Frameworks & Styling**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
----
-
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=ajisth69&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=8b949e" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ajisth69&hide_border=true" height="155" />
-  </picture>
-  &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajisth69&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=00000000" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajisth69&layout=compact&hide_border=true" height="155" />
-  </picture>
-
-  <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajisth69&theme=react-dark&hide_border=true&bg_color=00000000&color=8b949e&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" width="95%" />
-</div>
-
-<br/>
+**Build Tools & Infrastructure**  
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ### ⚡ Featured Projects
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4 align="center"><a href="https://github.com/ajisth69/tg-cloud-drive">Clash Drive</a></h4>
-      <p>Decentralized cloud storage using 50MB chunked MTProto payload encryption.</p>
-      <p><code>Cloudflare Workers</code> <code>Web Crypto</code> <code>TypeScript</code></p>
+- **[Clash Drive](https://github.com/ajisth69/tg-cloud-drive)** — Decentralized cloud storage using 50MB chunked MTProto payload encryption.  
+  `Cloudflare Workers` `Web Crypto` `TypeScript`
+
+- **[Clashgram](https://github.com/ajisth69/clashgram-client)** — Web Telegram client with MTProto proxy injection and endpoint bypass.  
+  `Teact` `TypeScript` `SCSS`
+
+- **[Dev Analyzer](https://github.com/ajisth69/dev-analyzer)** — Repository analysis engine generating deterministic code metrics and reports.  
+  `React` `TypeScript` `Node.js`
+
+---
+
+### 🏆 Achievements
+
+<table align="center">
+  <tr align="center" valign="middle">
+    <td width="100">
+      <a href="https://github.com/ajisth69?tab=achievements">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="48" alt="Galaxy Brain" />
+      </a>
+      <br />
+      <sub><b>Galaxy Brain</b></sub>
     </td>
-    <td width="33%" valign="top">
-      <h4 align="center"><a href="https://github.com/ajisth69/clashgram-client">Clashgram</a></h4>
-      <p>High-performance web Telegram client with MTProto proxy injection.</p>
-      <p><code>Teact</code> <code>TypeScript</code> <code>SCSS</code></p>
+    <td width="100">
+      <a href="https://github.com/ajisth69?tab=achievements">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pair-extraordinaire-silver.png" width="48" alt="Pair Extraordinaire Silver" />
+      </a>
+      <br />
+      <sub><b>Pair Extraordinaire</b></sub>
     </td>
-    <td width="33%" valign="top">
-      <h4 align="center"><a href="https://github.com/ajisth69/dev-analyzer">Dev Analyzer</a></h4>
-      <p>Repository analysis engine generating deterministic code metrics.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>Node.js</code></p>
+    <td width="100">
+      <a href="https://github.com/ajisth69?tab=achievements">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pull-shark-bronze.png" width="48" alt="Pull Shark Bronze" />
+      </a>
+      <br />
+      <sub><b>Pull Shark</b></sub>
+    </td>
+    <td width="100">
+      <a href="https://github.com/ajisth69?tab=achievements">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="48" alt="YOLO" />
+      </a>
+      <br />
+      <sub><b>YOLO</b></sub>
+    </td>
+    <td width="100">
+      <a href="https://github.com/ajisth69?tab=achievements">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="48" alt="Quickdraw" />
+      </a>
+      <br />
+      <sub><b>Quickdraw</b></sub>
+    </td>
+    <td width="100">
+      <a href="https://github.com/ajisth69?tab=achievements">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="48" alt="Starstruck" />
+      </a>
+      <br />
+      <sub><b>Starstruck</b></sub>
     </td>
   </tr>
 </table>
 
-<br/>
-
 ---
 
+### 📊 Activity & Statistics
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajisth69&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE%20VIEWS" />
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:21262d,100:0d1117&height=90&section=footer" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=ajisth69&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=8b949e" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ajisth69&hide_border=true" height="150" />
+  </picture>
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajisth69&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=00000000" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajisth69&layout=compact&hide_border=true" height="150" />
+  </picture>
 </div>
