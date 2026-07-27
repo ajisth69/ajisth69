@@ -112,7 +112,7 @@
   <br/><br/>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=ajisth69&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
-    <img src="https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=ajisth69&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=ajisth69&langs_count=8&layout=compact&card_width=495&theme=tokyonight&hide_border=true" />
+    <img src="https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=ajisth69&langs_count=8&layout=compact&card_width=495&theme=tokyonight&hide_border=true" height="150" />
   </picture>
 </div>
