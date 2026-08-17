@@ -64,57 +64,6 @@
 
 ---
 
-### <img src="https://api.iconify.design/octicon:trophy-16.svg?color=%237aa2f7" width="20" height="20" valign="middle" /> Achievements
-
-<table align="center">
-  <tr align="center" valign="middle">
-    <td width="100">
-      <a href="https://github.com/ajisth69?tab=achievements">
-        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="48" alt="Galaxy Brain" />
-      </a>
-      <br />
-      <sub><b>Galaxy Brain</b></sub>
-    </td>
-    <td width="100">
-      <a href="https://github.com/ajisth69?tab=achievements">
-        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pair-extraordinaire-silver.png" width="48" alt="Pair Extraordinaire Silver" />
-      </a>
-      <br />
-      <sub><b>Pair Extraordinaire</b></sub>
-    </td>
-    <td width="100">
-      <a href="https://github.com/ajisth69?tab=achievements">
-        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pull-shark-bronze.png" width="48" alt="Pull Shark Bronze" />
-      </a>
-      <br />
-      <sub><b>Pull Shark</b></sub>
-    </td>
-    <td width="100">
-      <a href="https://github.com/ajisth69?tab=achievements">
-        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="48" alt="YOLO" />
-      </a>
-      <br />
-      <sub><b>YOLO</b></sub>
-    </td>
-    <td width="100">
-      <a href="https://github.com/ajisth69?tab=achievements">
-        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="48" alt="Quickdraw" />
-      </a>
-      <br />
-      <sub><b>Quickdraw</b></sub>
-    </td>
-    <td width="100">
-      <a href="https://github.com/ajisth69?tab=achievements">
-        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="48" alt="Starstruck" />
-      </a>
-      <br />
-      <sub><b>Starstruck</b></sub>
-    </td>
-  </tr>
-</table>
-
----
-
 ### <img src="https://api.iconify.design/octicon:graph-16.svg?color=%237aa2f7" width="20" height="20" valign="middle" /> Statistics & Metrics
 
 <div align="center">
