@@ -16,8 +16,6 @@
         <li>Bit-perfect USB audio engine & synced real-time lyrics</li>
       </ul>
       <sub><code>Kotlin</code> &nbsp;<code>Jetpack Compose</code> &nbsp;<code>Media3</code> &nbsp;<code>Oboe</code></sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Status-Active-2ea043?style=flat-square&labelColor=161b22" alt="Active" />
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/Clash-Projects/LastWave-Desktop">LastWave Desktop</a> &nbsp; <a href="https://github.com/Clash-Projects/LastWave-Desktop/stargazers"><img src="https://img.shields.io/github/stars/Clash-Projects/LastWave-Desktop?style=flat&color=18181b&labelColor=09090b" alt="Stars" valign="middle"/></a></h4>
@@ -27,20 +25,18 @@
         <li>Dart persistent playback pipeline & local SQLite store</li>
       </ul>
       <sub><code>Flutter</code> &nbsp;<code>Dart</code> &nbsp;<code>libmpv</code> &nbsp;<code>Riverpod</code></sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Status-Active-2ea043?style=flat-square&labelColor=161b22" alt="Active" />
     </td>
   </tr>
 </table>
 
 ### Other Projects
 
-| Project | Description | Stack | Status | Stars |
-| :--- | :--- | :--- | :---: | :---: |
-| [**clashgram**](https://github.com/ajisth69/clashgram) | Glassmorphic Telegram client with client-side MTProto | `React 19` `TypeScript` `Tauri` | <img src="https://img.shields.io/badge/Status-Stable-2ea043?style=flat-square&labelColor=161b22" alt="Stable"/> | [![Stars](https://img.shields.io/github/stars/ajisth69/clashgram?style=flat&color=18181b&labelColor=09090b)](https://github.com/ajisth69/clashgram/stargazers) |
-| [**ClashFLAC**](https://github.com/ajisth69/ClashFLAC) | Platform for bit-perfect lossless FLAC audio | `FastAPI` `Python` `FFmpeg` | <img src="https://img.shields.io/badge/Status-Production-2ea043?style=flat-square&labelColor=161b22" alt="Production"/> | [![Stars](https://img.shields.io/github/stars/ajisth69/ClashFLAC?style=flat&color=18181b&labelColor=09090b)](https://github.com/ajisth69/ClashFLAC/stargazers) |
-| [**Clashdrive**](https://github.com/ajisth69/Clashdrive) | Client-side workspace turning Telegram into cloud storage | `React 19` `TypeScript` `MTProto` | <img src="https://img.shields.io/badge/Status-Production-2ea043?style=flat-square&labelColor=161b22" alt="Production"/> | [![Stars](https://img.shields.io/github/stars/ajisth69/Clashdrive?style=flat&color=18181b&labelColor=09090b)](https://github.com/ajisth69/Clashdrive/stargazers) |
-| [**dev-analyzer**](https://github.com/ajisth69/dev-analyzer) | Deterministic real-time GitHub developer analytics engine | `React 19` `TypeScript` `Cloudflare Workers` | <img src="https://img.shields.io/badge/Status-Stable-2ea043?style=flat-square&labelColor=161b22" alt="Stable"/> | [![Stars](https://img.shields.io/github/stars/ajisth69/dev-analyzer?style=flat&color=18181b&labelColor=09090b)](https://github.com/ajisth69/dev-analyzer/stargazers) |
+| Project | Description | Stack | Stars |
+| :--- | :--- | :--- | :---: |
+| [**clashgram**](https://github.com/ajisth69/clashgram) | Glassmorphic Telegram client with client-side MTProto | `React 19` `TypeScript` `Tauri` | [![Stars](https://img.shields.io/github/stars/ajisth69/clashgram?style=flat&color=18181b&labelColor=09090b)](https://github.com/ajisth69/clashgram/stargazers) |
+| [**ClashFLAC**](https://github.com/ajisth69/ClashFLAC) | Platform for bit-perfect lossless FLAC audio | `FastAPI` `Python` `FFmpeg` | [![Stars](https://img.shields.io/github/stars/ajisth69/ClashFLAC?style=flat&color=18181b&labelColor=09090b)](https://github.com/ajisth69/ClashFLAC/stargazers) |
+| [**Clashdrive**](https://github.com/ajisth69/Clashdrive) | Client-side workspace turning Telegram into cloud storage | `React 19` `TypeScript` `MTProto` | [![Stars](https://img.shields.io/github/stars/ajisth69/Clashdrive?style=flat&color=18181b&labelColor=09090b)](https://github.com/ajisth69/Clashdrive/stargazers) |
+| [**dev-analyzer**](https://github.com/ajisth69/dev-analyzer) | Deterministic real-time GitHub developer analytics engine | `React 19` `TypeScript` `Cloudflare Workers` | [![Stars](https://img.shields.io/github/stars/ajisth69/dev-analyzer?style=flat&color=18181b&labelColor=09090b)](https://github.com/ajisth69/dev-analyzer/stargazers) |
 
 ---
 
