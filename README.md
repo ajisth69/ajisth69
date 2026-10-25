@@ -1,86 +1,27 @@
 # Ajisth Singh
 
-> Fullstack Engineer specializing in Telegram Ecosystems, Serverless Architectures & Web Technologies.
+Native, desktop, and web systems.
 
 ---
 
-### <img src="https://api.iconify.design/octicon:code-16.svg?color=%237aa2f7" width="20" height="20" valign="middle" /> Tech Stack & Tools
+### Currently Building
 
-**Languages & Core**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+| Project | Description | Stack | Stars |
+| :--- | :--- | :--- | :---: |
+| [**LastWave Native**](https://github.com/Clash-Projects/LastWave-Native) | Next-gen YouTube Music client with liquid UI & low-latency audio core | `Android` `C++` | [![Stars](https://img.shields.io/github/stars/Clash-Projects/LastWave-Native?style=flat&color=18181b&labelColor=09090b)](https://github.com/Clash-Projects/LastWave-Native/stargazers) |
+| [**LastWave Desktop**](https://github.com/Clash-Projects/LastWave-Desktop) | Lossless high-resolution music player for Windows, Linux & macOS | `Flutter` `Dart` | [![Stars](https://img.shields.io/github/stars/Clash-Projects/LastWave-Desktop?style=flat&color=18181b&labelColor=09090b)](https://github.com/Clash-Projects/LastWave-Desktop/stargazers) |
 
-**Frameworks & Styling**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+<br/>
 
-**Machine Learning & Data Science**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+### Other Projects
 
-**Build Tools & Infrastructure**  
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Databases & Storage**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Upstash](https://img.shields.io/badge/Upstash-00E9A3?style=flat-square&logo=upstash&logoColor=white)
-
-**Platforms & OS**  
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+| Project | Description | Stack | Stars |
+| :--- | :--- | :--- | :---: |
+| [**clashgram**](https://github.com/ajisth69/clashgram) | Glassmorphic web Telegram client with client-side MTProto | `TypeScript` `Web` | [![Stars](https://img.shields.io/github/stars/ajisth69/clashgram?style=flat&color=18181b&labelColor=09090b)](https://github.com/ajisth69/clashgram/stargazers) |
+| [**ClashFLAC**](https://github.com/ajisth69/ClashFLAC) | Full-stack music platform for bit-perfect lossless FLAC audio | `Python` `REST API` | [![Stars](https://img.shields.io/github/stars/ajisth69/ClashFLAC?style=flat&color=18181b&labelColor=09090b)](https://github.com/ajisth69/ClashFLAC/stargazers) |
+| [**Clashdrive**](https://github.com/ajisth69/Clashdrive) | Serverless web workspace transforming Telegram into cloud storage | `JavaScript` `Serverless` | [![Stars](https://img.shields.io/github/stars/ajisth69/Clashdrive?style=flat&color=18181b&labelColor=09090b)](https://github.com/ajisth69/Clashdrive/stargazers) |
+| [**dev-analyzer**](https://github.com/ajisth69/dev-analyzer) | Deterministic real-time GitHub developer analytics engine | `TypeScript` `Analytics` | [![Stars](https://img.shields.io/github/stars/ajisth69/dev-analyzer?style=flat&color=18181b&labelColor=09090b)](https://github.com/ajisth69/dev-analyzer/stargazers) |
 
 ---
 
-### <img src="https://api.iconify.design/octicon:repo-16.svg?color=%237aa2f7" width="20" height="20" valign="middle" /> Featured Projects
-
-- **[Clash Drive](https://github.com/ajisth69/tg-cloud-drive)** — Decentralized cloud storage using 50MB chunked MTProto payload encryption.  
-  `Cloudflare Workers` `Web Crypto` `TypeScript`
-
-- **[Clashgram](https://github.com/ajisth69/clashgram-client)** — Web Telegram client with MTProto proxy injection and endpoint bypass.  
-  `Teact` `TypeScript` `SCSS`
-
-- **[Dev Analyzer](https://github.com/ajisth69/dev-analyzer)** — Repository analysis engine generating deterministic code metrics and reports.  
-  `React` `TypeScript` `Node.js`
-
----
-
-### <img src="https://api.iconify.design/octicon:graph-16.svg?color=%237aa2f7" width="20" height="20" valign="middle" /> Statistics & Metrics
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://kayan-github-profile-projects-featu.vercel.app/api?username=ajisth69&show_icons=true&show_rank=true&theme=tokyonight&hide_border=true" />
-    <img src="https://kayan-github-profile-projects-featu.vercel.app/api?username=ajisth69&show_icons=true&show_rank=true&theme=tokyonight&hide_border=true" height="150" />
-  </picture>
-  &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=ajisth69&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7&sideNums=a9b1d6" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ajisth69&theme=tokyonight&hide_border=true" height="150" />
-  </picture>
-
-  <br/><br/>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=ajisth69&langs_count=8&layout=compact&card_width=495&theme=tokyonight&hide_border=true" />
-    <img src="https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=ajisth69&langs_count=8&layout=compact&card_width=495&theme=tokyonight&hide_border=true" height="150" />
-  </picture>
-</div>
+<sub>[Telegram](https://t.me/sudo_solo) &nbsp;·&nbsp; [Channel](https://t.me/clashprojects) &nbsp;·&nbsp; [Email](mailto:ajisth007@gmail.com)</sub>
