@@ -1,27 +1,53 @@
 # Ajisth Singh
 
-Native, desktop, and web systems.
+> Building low-latency native audio engines, cross-platform desktop clients, and web architectures.
 
 ---
 
 ### Currently Building
 
-| Project | Description | Stack | Stars |
-| :--- | :--- | :--- | :---: |
-| [**LastWave Native**](https://github.com/Clash-Projects/LastWave-Native) | Next-gen YouTube Music client with liquid UI & low-latency audio core | `Kotlin` `Jetpack Compose` `Media3` | [![Stars](https://img.shields.io/github/stars/Clash-Projects/LastWave-Native?style=flat&color=18181b&labelColor=09090b)](https://github.com/Clash-Projects/LastWave-Native/stargazers) |
-| [**LastWave Desktop**](https://github.com/Clash-Projects/LastWave-Desktop) | Lossless high-resolution music player for Windows, Linux & macOS | `Flutter` `Dart` `libmpv` | [![Stars](https://img.shields.io/github/stars/Clash-Projects/LastWave-Desktop?style=flat&color=18181b&labelColor=09090b)](https://github.com/Clash-Projects/LastWave-Desktop/stargazers) |
-
-<br/>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Clash-Projects/LastWave-Native">LastWave Native</a> &nbsp; <a href="https://github.com/Clash-Projects/LastWave-Native/stargazers"><img src="https://img.shields.io/github/stars/Clash-Projects/LastWave-Native?style=flat&color=18181b&labelColor=09090b" valign="middle"/></a></h4>
+      <p>Next-gen YouTube Music client with liquid UI & low-latency native audio core.</p>
+      <ul>
+        <li>Oboe C++ low-latency driver & FFmpeg software decoder</li>
+        <li>Bit-perfect USB audio engine & synced real-time lyrics</li>
+      </ul>
+      <sub><code>Kotlin</code> &nbsp;<code>Jetpack Compose</code> &nbsp;<code>Media3</code> &nbsp;<code>Oboe</code></sub>
+      <br/><br/>
+      <small><code>â— Active Development</code></small>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Clash-Projects/LastWave-Desktop">LastWave Desktop</a> &nbsp; <a href="https://github.com/Clash-Projects/LastWave-Desktop/stargazers"><img src="https://img.shields.io/github/stars/Clash-Projects/LastWave-Desktop?style=flat&color=18181b&labelColor=09090b" valign="middle"/></a></h4>
+      <p>Lossless high-resolution music player for Windows, Linux & macOS.</p>
+      <ul>
+        <li>Gapless playback with 32MiB demuxer cache via libmpv</li>
+        <li>Dart persistent playback pipeline & local SQLite store</li>
+      </ul>
+      <sub><code>Flutter</code> &nbsp;<code>Dart</code> &nbsp;<code>libmpv</code> &nbsp;<code>Riverpod</code></sub>
+      <br/><br/>
+      <small><code>â— Active Development</code></small>
+    </td>
+  </tr>
+</table>
 
 ### Other Projects
 
-| Project | Description | Stack | Stars |
-| :--- | :--- | :--- | :---: |
-| [**clashgram**](https://github.com/ajisth69/clashgram) | Glassmorphic web Telegram client with client-side MTProto | `React 19` `TypeScript` `Tauri` | [![Stars](https://img.shields.io/github/stars/ajisth69/clashgram?style=flat&color=18181b&labelColor=09090b)](https://github.com/ajisth69/clashgram/stargazers) |
-| [**ClashFLAC**](https://github.com/ajisth69/ClashFLAC) | Full-stack music platform for bit-perfect lossless FLAC audio | `FastAPI` `Python` `FFmpeg` | [![Stars](https://img.shields.io/github/stars/ajisth69/ClashFLAC?style=flat&color=18181b&labelColor=09090b)](https://github.com/ajisth69/ClashFLAC/stargazers) |
-| [**Clashdrive**](https://github.com/ajisth69/Clashdrive) | Serverless web workspace transforming Telegram into cloud storage | `React 19` `TypeScript` `MTProto` | [![Stars](https://img.shields.io/github/stars/ajisth69/Clashdrive?style=flat&color=18181b&labelColor=09090b)](https://github.com/ajisth69/Clashdrive/stargazers) |
-| [**dev-analyzer**](https://github.com/ajisth69/dev-analyzer) | Deterministic real-time GitHub developer analytics engine | `React 19` `TypeScript` `Cloudflare Workers` | [![Stars](https://img.shields.io/github/stars/ajisth69/dev-analyzer?style=flat&color=18181b&labelColor=09090b)](https://github.com/ajisth69/dev-analyzer/stargazers) |
+| Project | Description | Stack | Status | Stars |
+| :--- | :--- | :--- | :---: | :---: |
+| [**clashgram**](https://github.com/ajisth69/clashgram) | Glassmorphic Telegram client with client-side MTProto | `React 19` `TypeScript` `Tauri` | `Stable` | [![Stars](https://img.shields.io/github/stars/ajisth69/clashgram?style=flat&color=18181b&labelColor=09090b)](https://github.com/ajisth69/clashgram/stargazers) |
+| [**ClashFLAC**](https://github.com/ajisth69/ClashFLAC) | Platform for bit-perfect lossless FLAC audio | `FastAPI` `Python` `FFmpeg` | `Production` | [![Stars](https://img.shields.io/github/stars/ajisth69/ClashFLAC?style=flat&color=18181b&labelColor=09090b)](https://github.com/ajisth69/ClashFLAC/stargazers) |
+| [**Clashdrive**](https://github.com/ajisth69/Clashdrive) | Client-side workspace turning Telegram into cloud storage | `React 19` `TypeScript` `MTProto` | `Production` | [![Stars](https://img.shields.io/github/stars/ajisth69/Clashdrive?style=flat&color=18181b&labelColor=09090b)](https://github.com/ajisth69/Clashdrive/stargazers) |
+| [**dev-analyzer**](https://github.com/ajisth69/dev-analyzer) | Deterministic real-time GitHub developer analytics engine | `React 19` `TypeScript` `Cloudflare Workers` | `Stable` | [![Stars](https://img.shields.io/github/stars/ajisth69/dev-analyzer?style=flat&color=18181b&labelColor=09090b)](https://github.com/ajisth69/dev-analyzer/stargazers) |
 
 ---
 
-<sub>[Telegram](https://t.me/sudo_solo) &nbsp;Â·&nbsp; [Channel](https://t.me/clashprojects) &nbsp;Â·&nbsp; [Email](mailto:ajisth007@gmail.com)</sub>
+<p align="right">
+  <sub>
+    <a href="https://t.me/sudo_solo">Telegram</a> &nbsp;Â·&nbsp;
+    <a href="https://t.me/clashprojects">Channel</a> &nbsp;Â·&nbsp;
+    <a href="mailto:ajisth007@gmail.com">Email</a>
+  </sub>
+</p>
