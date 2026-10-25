@@ -1,6 +1,6 @@
 # Ajisth Singh
 
-> Building low-latency native audio engines, cross-platform desktop clients, and web architectures.
+> Building low-latency native audio engines, Android, cross-platform desktop youtube clients and music players, and web architectures.
 
 ---
 
