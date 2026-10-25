@@ -33,10 +33,10 @@
 
 | Project | Description | Stack | Stars |
 | :--- | :--- | :--- | :---: |
-| [**clashgram**](https://github.com/ajisth69/clashgram) | Glassmorphic Telegram web & desktop client with client-side MTProto | `React 19` `TypeScript` `Tauri` | [![Stars](https://img.shields.io/github/stars/ajisth69/clashgram?style=flat&color=18181b&labelColor=09090b)](https://github.com/ajisth69/clashgram/stargazers) |
+| [**clashgram**](https://github.com/ajisth69/clashgram) | Glassmorphic Telegram web & desktop client with client-side MTProto | `React` `TypeScript` `Tauri` | [![Stars](https://img.shields.io/github/stars/ajisth69/clashgram?style=flat&color=18181b&labelColor=09090b)](https://github.com/ajisth69/clashgram/stargazers) |
 | [**ClashFLAC**](https://github.com/ajisth69/ClashFLAC) | Full-stack platform for bit-perfect lossless FLAC audio streaming | `FastAPI` `Python` `FFmpeg` | [![Stars](https://img.shields.io/github/stars/ajisth69/ClashFLAC?style=flat&color=18181b&labelColor=09090b)](https://github.com/ajisth69/ClashFLAC/stargazers) |
-| [**Clashdrive**](https://github.com/ajisth69/Clashdrive) | Cloud storage workspace powered directly by Telegram MTProto | `React 19` `TypeScript` `MTProto` | [![Stars](https://img.shields.io/github/stars/ajisth69/Clashdrive?style=flat&color=18181b&labelColor=09090b)](https://github.com/ajisth69/Clashdrive/stargazers) |
-| [**dev-analyzer**](https://github.com/ajisth69/dev-analyzer) | Real-time deterministic GitHub developer and repository analytics | `React 19` `TypeScript` `Cloudflare Workers` | [![Stars](https://img.shields.io/github/stars/ajisth69/dev-analyzer?style=flat&color=18181b&labelColor=09090b)](https://github.com/ajisth69/dev-analyzer/stargazers) |
+| [**Clashdrive**](https://github.com/ajisth69/Clashdrive) | Cloud storage workspace powered directly by Telegram MTProto | `React` `TypeScript` `MTProto` | [![Stars](https://img.shields.io/github/stars/ajisth69/Clashdrive?style=flat&color=18181b&labelColor=09090b)](https://github.com/ajisth69/Clashdrive/stargazers) |
+| [**dev-analyzer**](https://github.com/ajisth69/dev-analyzer) | Real-time deterministic GitHub developer and repository analytics | `React` `TypeScript` `Cloudflare Workers` | [![Stars](https://img.shields.io/github/stars/ajisth69/dev-analyzer?style=flat&color=18181b&labelColor=09090b)](https://github.com/ajisth69/dev-analyzer/stargazers) |
 
 ---
 
