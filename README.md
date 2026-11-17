@@ -18,7 +18,7 @@
       <sub><code>Kotlin</code> &nbsp;<code>Jetpack Compose</code> &nbsp;<code>Media3</code></sub>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Clash-Projects/LastWave-Desktop">LastWave Desktop</a> &nbsp; <a href="https://github.com/Clash-Projects/LastWave-Desktop/stargazers"><img src="https://img.shields.io/github/stars/Clash-Projects/LastWave-Desktop?style=flat&color=18181b&labelColor=09090b" alt="Stars" valign="middle"/></a></h4>
+      <h4><a href="https://github.com/Clash-Projects/LastWave-Desktop">LastWave Desktop</a> &nbsp; <a href="https://github.com/Clash-Projects/LastWave-Desktop/stargazes"><img src="https://img.shields.io/github/stars/Clash-Projects/LastWave-Desktop?style=flat&color=18181b&labelColor=09090b" alt="Stars" valign="middle"/></a></h4>
       <p>YouTube Music & lossless audio player for Windows, Linux & macOS.</p>
       <ul>
         <li>Gapless streaming & real-time synced lyrics</li>
